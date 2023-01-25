@@ -1,0 +1,7 @@
+accelerator:
+  displayName: Simple Accelerator
+  description: Contains just a README
+  iconUrl: https://blogs.vmware.com/cloudprovider/files/2021/09/logo-vmware-tanzu-square-Header-327x324.png
+  tags:
+  - simple
+  - getting-started
